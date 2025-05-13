@@ -1,32 +1,6 @@
----
-layout: post
-title:  "欢迎访问我的技术博客"
-date:   2023-10-20 10:18:05 +0800
-categories: [公告]
-tags: [博客]
-image:
-  path: /images/header.jpg
-  alt: 博客头图
----
-
-## 这是我的GitHub Pages博客
-
-通过 [GitHub Pages](https://pages.github.com/) + [Jekyll](https://jekyllrb.com/) 构建，当前使用主题为 [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)。
-
-### 技术栈
-- 静态站点生成：Jekyll 4.3.2
-- 代码高亮：rouge
-- 评论系统：Gitalk
-- CI/CD：GitHub Actions
-
-### 代码示例
-```python
-def hello_blog():
-    print("欢迎来到我的技术博客！")
-    print("这里将分享：")
-    topics = ["编程技巧", "算法解析", "开发日志"]
-    for topic in topics:
-        print(f"- {topic}")
-
-if __name__ == "__main__":
-    hello_blog()
+{
+    "title":"三体",
+    "subTitle":"来自4.2光年外的博客",
+    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
+    "GMEEK_VERSION":"last"
+}
